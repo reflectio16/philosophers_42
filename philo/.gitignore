@@ -1,0 +1,26 @@
+# Compiled object files
+*.o
+
+# Executable
+philo
+
+# Dependency files
+*.d
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Test output files
+output*.txt
+tempfile
+fails/
+
+# Valgrind logs
+helgrind_output*.txt
